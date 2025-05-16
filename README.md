@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/UDAY475722/leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/UDAY475722/leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [1677-matrix-diagonal-sum](https://github.com/UDAY475722/leetcode/tree/master/1677-matrix-diagonal-sum) |
 ## Sliding Window
 |  |
 | ------- |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/UDAY475722/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/UDAY475722/leetcode/tree/master/0342-power-of-four) |
+## Matrix
+|  |
+| ------- |
+| [1677-matrix-diagonal-sum](https://github.com/UDAY475722/leetcode/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
