@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/UDAY475722/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0231-power-of-two](https://github.com/UDAY475722/leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/UDAY475722/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/UDAY475722/leetcode/tree/master/0342-power-of-four) |
@@ -110,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/UDAY475722/leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/UDAY475722/leetcode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
