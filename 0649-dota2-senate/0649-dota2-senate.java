@@ -6,7 +6,7 @@ class Solution {
         Queue<Integer> dire = new LinkedList<>();
         int n = senate.length();
 
-        // Populate queues with indices
+     
         for (int i = 0; i < n; i++) {
             if (senate.charAt(i) == 'R') {
                 radiant.offer(i);
@@ -15,14 +15,14 @@ class Solution {
             }
         }
 
-        // Simulate the rounds
+     
         while (!radiant.isEmpty() && !dire.isEmpty()) {
             int r = radiant.poll();
             int d = dire.poll();
             if (r < d) {
-                radiant.offer(r + n); // Radiant bans Dire
+                radiant.offer(r + n); 
             } else {
-                dire.offer(d + n); // Dire bans Radiant
+                dire.offer(d + n);
             }
         }
 
